@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fablicio
 - 👀 I’m interested in DevOPS | LINUX | Developer | Docker 
-- 🌱 I’m currently learning K8s | Docker
-- 💞️ I’m looking to collaborate on Developer
+- 🌱 I’m currently learning K8s | Docker | Terraform | Python | Configuration Management Using Chef
+- 💞️ I’m looking to collaborate on Infra | DevOps | Dev
 - 📫 How to reach me fablicio.soares@gmail.com
 
 <!---
